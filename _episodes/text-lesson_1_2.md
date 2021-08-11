@@ -17,7 +17,7 @@ dependencies: []
 originalRepository: betsyval/data-sharing-workshop
 
 ---
-# For additional information about Open Science check the link below:
+> ## For additional information about Open Science check the links below:
 
 > https://mjaquiery.github.io/ukrn-wb-lesson-examples/
 
@@ -27,3 +27,8 @@ originalRepository: betsyval/data-sharing-workshop
 > * Anonymizing Quantitative Data
 > * Data Sharing Checklist
 > * Licenses for Data
+
+Also check for Open Research Resource Browser:
+
+https://ukrn-orr.netlify.app/
+{: .discussion}
