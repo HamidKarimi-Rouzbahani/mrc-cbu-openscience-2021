@@ -11,11 +11,11 @@ is-break: null
 ukrn_wb_rules: []
 day: 1
 order: 500000
-missingDependencies:
-  - /fig/osf-my-projects.jpg
+missingDependencies: []
 dependencies:
   - /fig/osf-esm.jpg
   - /fig/osf-contributors.jpg
+  - /fig/osf-my-projects.jpg
 originalRepository: mjaquiery/ukrn-wb-lesson-examples
 
 ---
