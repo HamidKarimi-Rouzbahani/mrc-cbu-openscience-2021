@@ -19,3 +19,9 @@ originalRepository: mjaquiery/ukrn-wb-lesson-examples
 
 ---
 ## Welcome and a brief discription of the MRC train-the-trainer scheme
+
+## The Pros (no Cons?) of data sharing
+
+> ## Discussion `5 min`
+> How does train-the-trainer scheme work?
+{: .discussion}
