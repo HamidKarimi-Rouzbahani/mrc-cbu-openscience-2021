@@ -1,12 +1,11 @@
 ---
-title: Introduction
-teaching: 20
-exercises: 10
-duration: 5
-summary: This part is to introduce the workshop and the attendees
+title: More information about Open Science
+teaching: null
+exercises: null
+duration: null
+summary: See below more related content about Open Science.
 questions: null
-objectives:
-  - Introduce the workshop and the attendees
+objectives: []
 keypoints: null
 is-break: null
 ukrn_wb_rules:
