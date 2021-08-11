@@ -16,8 +16,6 @@ dependencies: []
 originalRepository: mjaquiery/ukrn-wb-lesson-examples
 
 ---
-## The Pros (no Cons?) of data sharing
-
 > ## Discussion `10 min`
 > What are the general values of sharing data in science?
 {: .discussion}
