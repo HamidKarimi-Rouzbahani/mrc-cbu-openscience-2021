@@ -27,6 +27,6 @@ https://mjaquiery.github.io/ukrn-wb-lesson-examples/
 > * Data Sharing Checklist
 > * Licenses for Data
 
-Also check for Open Research Resource Browser:
+Also check the Open Research Resource Browser:
 
 https://ukrn-orr.netlify.app/
