@@ -19,8 +19,6 @@ dependencies:
 originalRepository: mjaquiery/ukrn-wb-lesson-examples
 
 ---
-## Research culture part 1
-
 > ## Discussion `15 min`
 > How can we improve the research culture at MRC CBU?
 {: .discussion}
