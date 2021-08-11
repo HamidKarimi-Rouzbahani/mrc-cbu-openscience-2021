@@ -17,8 +17,6 @@ dependencies: []
 originalRepository: betsyval/data-sharing-workshop
 
 ---
-## Research culture part 2
-
 > ## Discussion `15 min`
 > How can we improve the research culture at MRC CBU?
 {: .discussion}
