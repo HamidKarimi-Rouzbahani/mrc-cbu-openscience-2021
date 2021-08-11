@@ -17,4 +17,9 @@ dependencies: []
 originalRepository: betsyval/data-sharing-workshop
 
 ---
-## Additional information about Open Science
+# For additional information about Open Science check the link below:
+
+> * Open Science Framework
+> * Anonymizing Quantitative Data
+> * Data Sharing Checklist
+> * Licenses for Data
