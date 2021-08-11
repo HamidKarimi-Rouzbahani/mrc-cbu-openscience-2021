@@ -1,22 +1,14 @@
 ---
-title: Anonymizing Quantitative Data
-teaching: null
-exercises: 30
+title: Welcome and a brief discription of the MRC train-the-trainer scheme
+  (Hamid Karimi-Rouzbahani)
+teaching: 15
+exercises: null
 duration: null
-summary: In this lesson we will collaboratively build a checklist to help us in
-  anonymising quantitative data so that it can be shared. We will consider how
-  these steps can be done automatically.
-questions:
-  - Why do we need to anonymize data?
-  - How do we anonymize data?
-objectives:
-  - Gain an understanding of how to anonymise data
-  - Create a checklist of anonymisation steps for quantitative data
-keypoints:
-  - Anonymised data are easier to share legally.
-  - Remove direct identifiers
-  - Reduce precision to stop outliers leading to identification
-  - Consider the potential for reidentification by cross-tabulating fields
+summary: "A basic introduction about the MRC CBU Open Science day, and the MRC
+  train-the-trainer scheme "
+questions: []
+objectives: []
+keypoints: []
 is-break: null
 ukrn_wb_rules: []
 day: 1
