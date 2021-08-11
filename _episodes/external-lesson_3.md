@@ -1,7 +1,7 @@
 ---
 title: Q&A about publication notification and confirmation of data (Kevin Symonds)
-teaching: 30
-exercises: 15
+teaching: 45
+exercises: null
 duration: null
 summary: How does publication notification work at MRC CBU?
 questions: []
