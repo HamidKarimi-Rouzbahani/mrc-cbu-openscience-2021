@@ -1,5 +1,5 @@
 ---
-title: Introduction to the Open Science Framework (OSF)
+title: lunch + imaging meeting for those who wish to attend
 teaching: 10
 exercises: null
 duration: null
