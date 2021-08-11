@@ -1,5 +1,5 @@
 ---
-title: More information about Open Science
+title: Additional information about Open Science
 teaching: null
 exercises: null
 duration: null
