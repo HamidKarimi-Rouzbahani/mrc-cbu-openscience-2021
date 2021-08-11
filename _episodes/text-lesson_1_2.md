@@ -17,9 +17,11 @@ dependencies: []
 originalRepository: betsyval/data-sharing-workshop
 
 ---
-> ## For additional information about Open Science check the links below:
+> ## Discussion
 
-> https://mjaquiery.github.io/ukrn-wb-lesson-examples/
+For additional information about Open Science check the links below:
+
+https://mjaquiery.github.io/ukrn-wb-lesson-examples/
 
 > This will include information about: 
 
@@ -31,4 +33,5 @@ originalRepository: betsyval/data-sharing-workshop
 Also check for Open Research Resource Browser:
 
 https://ukrn-orr.netlify.app/
+
 {: .discussion}
