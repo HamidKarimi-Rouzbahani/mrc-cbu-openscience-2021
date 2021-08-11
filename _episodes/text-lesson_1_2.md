@@ -19,6 +19,10 @@ originalRepository: betsyval/data-sharing-workshop
 ---
 # For additional information about Open Science check the link below:
 
+> https://mjaquiery.github.io/ukrn-wb-lesson-examples/
+
+> This will include information about: 
+
 > * Open Science Framework
 > * Anonymizing Quantitative Data
 > * Data Sharing Checklist
