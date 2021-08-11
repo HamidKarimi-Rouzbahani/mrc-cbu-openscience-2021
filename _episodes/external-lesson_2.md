@@ -1,8 +1,8 @@
 ---
 title: The Pros (no Cons?) of data sharing (Rik Henson)
-teaching: 30
+teaching: null
 exercises: null
-duration: null
+duration: 30
 summary: General value of sharing data in science
 questions: []
 objectives: []
