@@ -1,9 +1,9 @@
 ---
 title: Welcome and a brief discription of the MRC train-the-trainer scheme
   (Hamid Karimi-Rouzbahani)
-teaching: 15
+teaching: null
 exercises: null
-duration: null
+duration: 15
 summary: "A basic introduction about the MRC CBU Open Science day, and the MRC
   train-the-trainer scheme "
 questions: []
