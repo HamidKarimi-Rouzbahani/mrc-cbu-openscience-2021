@@ -1,8 +1,8 @@
 ---
 title: Research culture Part 2 (Research Culture Working Group)
-teaching: 60
+teaching: null
 exercises: null
-duration: null
+duration: 60
 summary: How we can improve research culture.
 questions: null
 objectives: []
