@@ -1,12 +1,11 @@
 ---
-title: Introduction
-teaching: 20
-exercises: 10
-duration: 5
-summary: This part is to introduce the workshop and the attendees
+title: Research culture Part 2 (Research Culture Working Group)
+teaching: 60
+exercises: null
+duration: null
+summary: How we can improve research culture.
 questions: null
-objectives:
-  - Introduce the workshop and the attendees
+objectives: []
 keypoints: null
 is-break: null
 ukrn_wb_rules:
