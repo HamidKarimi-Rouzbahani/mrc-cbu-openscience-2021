@@ -18,4 +18,5 @@ originalRepository: mjaquiery/ukrn-wb-lesson-examples
 ---
 > ## Discussion `10 min`
 > What are the general values of sharing data in science?
+> Watch this video: https://www.youtube.com/watch?v=wjWAUrvA6c4
 {: .discussion}
