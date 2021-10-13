@@ -1,8 +1,9 @@
 ---
-title: Q&A about publication notification and confirmation of data (Kevin Symonds)
+title: "How-to: deposit a CBU project once it is accepted for publication (Kevin
+  Symonds)"
 teaching: null
 exercises: null
-duration: 45
+duration: 15
 summary: How does publication notification work at MRC CBU?
 questions: []
 objectives: []
