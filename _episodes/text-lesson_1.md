@@ -1,16 +1,16 @@
 ---
-title: Research culture Part 1 (Saskia Frisby)
+title: Interactive Research Culture (Saskia Frisby and Amy Orben)
 teaching: null
 exercises: null
-duration: 60
-summary: How we can improve research culture.
+duration: 120
+summary: ""
 questions: []
 objectives: []
 keypoints: []
 is-break: null
 ukrn_wb_rules: []
 day: 1
-order: 500000
+order: 525000
 missingDependencies: []
 dependencies:
   - /fig/osf-esm.jpg
