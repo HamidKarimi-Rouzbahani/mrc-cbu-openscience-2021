@@ -1,9 +1,9 @@
 ---
-title: How to share your data at MRC Cognition and Brain Sciences Unit (Roni Tibon)
-teaching: 20
-exercises: 10
+title: "How-to: manage a CBU project with data sharing in mind (Roni Tibon)"
+teaching: 15
+exercises: null
 duration: null
-summary: What are the precedures for sharing the the data at MRC CBU
+summary: ""
 questions: []
 objectives: []
 keypoints: []
