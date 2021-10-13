@@ -6,13 +6,13 @@ instructors:
   - Rik Henson
   - Roni Tibon
   - Kevin Symonds
+  - Amy Orben
   - Saskia Frisby
-  - Hamid Karimi-Rouzbahani
 instructor_emails: []
 helpers:
-  - Amy Orben
+  - Hamid Karimi-Rouzbahani
 start_times:
-  - 09|30
+  - 09|45
 setup_files: []
 language: en
 venue: MRC Cognition and Brain Sciences Unit, 2nd November 2021
