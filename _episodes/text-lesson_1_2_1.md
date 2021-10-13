@@ -1,10 +1,10 @@
 ---
-title: Research culture Part 1 (Saskia Frisby)
-teaching: 40
-exercises: 20
+title: New developments in Open Access and how they will affect the CBU in the
+  next year (Amy Orben and Kevin Symonds)
+teaching: 15
+exercises: null
 duration: null
-summary: Here we share our thoughts about ideal research environments and how we
-  can improve the research culture.
+summary: ""
 questions: []
 objectives: null
 keypoints: null
