@@ -1,6 +1,5 @@
 ---
-title: Welcome and the introduction of the MRC train-the-trainer scheme (Hamid
-  Karimi-Rouzbahani)
+title: Welcome coffee
 teaching: 15
 exercises: null
 questions: []
@@ -11,13 +10,12 @@ order: 50000
 missingDependencies: []
 dependencies: []
 originalRepository: HamidKarimi-Rouzbahani/mrc-open-day-2021
-summary: "Basic introduction about the day, and brief description of MRC
-  train-the-trainer scheme "
+summary: ""
 duration: null
 
 ---
-> ## Introduction `15 min`
-> Basic introduction about the day, and brief description of MRC train-the-trainer scheme.
-{: .discussion}
+> ## Welcome coffee `15 min`
+## This is a time for you to get a coffee and prepare your mind for a whole day on Open Science.
+
 
 
