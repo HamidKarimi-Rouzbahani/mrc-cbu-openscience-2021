@@ -16,4 +16,5 @@ day: 1
 order: 75000
 
 ---
-## This is a time for you to get some refreshment and clear your mind a little in preparation for the rest of the day.
+> ## Welcome coffee `15 min`
+## This is a time for you to get a coffee and prepare your mind for a whole day on Open Science.
