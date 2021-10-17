@@ -19,3 +19,6 @@ dependencies:
 originalRepository: mjaquiery/ukrn-wb-lesson-examples
 
 ---
+> ## Discussion `120 min`
+> This session will cover contents about different aspects of research culture.
+{: .discussion}
