@@ -18,6 +18,6 @@ dependencies: []
 originalRepository: mjaquiery/ukrn-wb-lesson-examples
 
 ---
-> ## Discussion `60 min`
+> ## Lunch `60 min`
 > This is a time for you to get a coffee and prepare your mind for a whole day on Open Science.
 {: .discussion}
