@@ -13,7 +13,7 @@ ukrn_wb_rules:
   - remove-on-stash
   - undeletable
 day: 1
-order: 300000
+order: 75000
 
 ---
 ## This is a time for you to get some refreshment and clear your mind a little in preparation for the rest of the day.
