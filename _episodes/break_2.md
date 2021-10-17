@@ -18,4 +18,6 @@ dependencies: []
 originalRepository: mjaquiery/ukrn-wb-lesson-examples
 
 ---
-## This is a time for you to have lunch and prepare for the interesting Research Culture session.
+> ## Discussion `60 min`
+> This is a time for you to get a coffee and prepare your mind for a whole day on Open Science.
+{: .discussion}
