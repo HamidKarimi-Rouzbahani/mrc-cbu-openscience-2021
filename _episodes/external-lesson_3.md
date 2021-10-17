@@ -17,6 +17,6 @@ dependencies: []
 originalRepository: mjaquiery/ukrn-wb-lesson-examples
 
 ---
-> ## Discussion `15 min`
+> ## Discussion `5 min`
 > How does publication notification work at MRC CBU?
 {: .discussion}
