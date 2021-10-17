@@ -18,6 +18,6 @@ dependencies: []
 originalRepository: mjaquiery/ukrn-wb-lesson-examples
 
 ---
-> ## Discussion `5 min`
+> ## Topic `5 min`
 > How does train-the-trainer scheme work?
 {: .discussion}
