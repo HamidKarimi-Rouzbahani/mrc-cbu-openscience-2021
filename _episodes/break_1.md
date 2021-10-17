@@ -1,9 +1,9 @@
 ---
-title: Break
-teaching: null
+title: Welcome coffee
+teaching: 15
 exercises: null
-duration: 30
-summary: Allowing participants breaks helps everyone stay alert and focused.
+duration: null
+summary: ""
 questions: null
 objectives: null
 keypoints: null
