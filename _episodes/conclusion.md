@@ -5,8 +5,8 @@ exercises: null
 questions: []
 objectives: []
 keypoints: []
-day: 1
-order: 50000
+day: ""
+order: 100000
 missingDependencies: []
 dependencies: []
 originalRepository: HamidKarimi-Rouzbahani/mrc-open-day-2021
