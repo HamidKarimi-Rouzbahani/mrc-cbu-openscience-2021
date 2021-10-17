@@ -18,5 +18,5 @@ originalRepository: betsyval/data-sharing-workshop
 
 ---
 > ## Discussion `15 min`
-> How can we improve the research culture at MRC CBU?
+> Please feel free to ask any questions about Open Science.
 {: .discussion}
