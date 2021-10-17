@@ -1,8 +1,8 @@
 ---
 title: Welcome coffee
-teaching: 15
+teaching: null
 exercises: null
-duration: null
+duration: 15
 summary: ""
 questions: null
 objectives: null
@@ -16,5 +16,6 @@ day: 1
 order: 75000
 
 ---
-> ## Welcome coffee `15 min`
-## This is a time for you to get a coffee and prepare your mind for a whole day on Open Science.
+> ## Discussion `15 min`
+> This is a time for you to get a coffee and prepare your mind for a whole day on Open Science.
+{: .discussion}
