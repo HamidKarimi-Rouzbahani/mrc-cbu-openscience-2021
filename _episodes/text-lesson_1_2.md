@@ -2,7 +2,7 @@
 title: Additional information about Open Science
 teaching: null
 exercises: null
-duration: null
+duration: 0
 summary: See below more related content about Open Science.
 questions: null
 objectives: []
