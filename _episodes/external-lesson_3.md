@@ -1,6 +1,6 @@
 ---
 title: "How-to: deposit a CBU project once it is accepted for publication (Kevin
-  Symonds)"
+  Symonds) "
 teaching: null
 exercises: null
 duration: 15
