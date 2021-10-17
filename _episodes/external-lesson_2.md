@@ -20,6 +20,6 @@ originalRepository: mjaquiery/ukrn-wb-lesson-examples
 > UKRN video on data sharing: https://www.youtube.com/watch?v=wjWAUrvA6c4
 {: .video}
 
-> ## Topic `5 min`
+> ## Q&A `5 min`
 > What are the general values of sharing data in science?
 {: .discussion}
