@@ -1,5 +1,5 @@
 ---
-title: The Pros (no Cons?) of data sharing (Rik Henson)
+title: The Pros (no Cons?) of Open Science (Rik Henson)
 teaching: null
 exercises: null
 duration: 20
