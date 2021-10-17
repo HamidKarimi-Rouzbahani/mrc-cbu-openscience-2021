@@ -16,6 +16,6 @@ day: 1
 order: 75000
 
 ---
-> ## Discussion `15 min`
+> ## Coffee `15 min`
 > This is a time for you to get a coffee and prepare your mind for a whole day on Open Science.
 {: .discussion}
