@@ -1,8 +1,8 @@
 ---
 title: "How-to: manage a CBU project with data sharing in mind (Roni Tibon)"
-teaching: 15
+teaching: null
 exercises: null
-duration: null
+duration: 15
 summary: ""
 questions: []
 objectives: []
