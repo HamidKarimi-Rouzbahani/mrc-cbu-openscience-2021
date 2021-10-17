@@ -1,9 +1,9 @@
 ---
 title: New developments in Open Access and how they will affect the CBU in the
   next year (Amy Orben and Kevin Symonds)
-teaching: 15
+teaching: null
 exercises: null
-duration: null
+duration: 15
 summary: ""
 questions: []
 objectives: null
