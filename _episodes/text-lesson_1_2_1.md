@@ -18,6 +18,6 @@ dependencies: []
 originalRepository: HamidKarimi-Rouzbahani/mrc-open-day-2021
 
 ---
-> ## Research culture `5 min`
+> ## Q&A `5 min`
 > Please feel free to ask any questions about research culture.
 {: .discussion}
