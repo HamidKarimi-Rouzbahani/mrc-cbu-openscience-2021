@@ -25,6 +25,6 @@ originalRepository: betsyval/data-sharing-workshop
 > * Anonymizing Quantitative Data
 > * Data Sharing Checklist
 > * Licenses for Data
-> Also check the [Open Research Resource Browser](https://ukrn-orr.netlify.app/)._
+> Also check the [Open Research Resource Browser](https://ukrn-orr.netlify.app/).
 {: .discussion}
 
