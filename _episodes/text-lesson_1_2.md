@@ -18,7 +18,7 @@ originalRepository: betsyval/data-sharing-workshop
 
 ---
 > ## Additional information
-> For additional information about Open Science check [other UKRN lessons](https://mjaquiery.github.io/ukrn-wb-lesson-examples/)._
+> For additional information about Open Science check [other UKRN lessons](https://mjaquiery.github.io/ukrn-wb-lesson-examples/).
 
 > This will include information about: 
 > * Open Science Framework
