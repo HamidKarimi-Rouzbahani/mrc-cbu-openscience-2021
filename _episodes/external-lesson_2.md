@@ -17,7 +17,7 @@ originalRepository: mjaquiery/ukrn-wb-lesson-examples
 
 ---
 > ## Video `3 min`
-> UKRN video on data sharing: https://www.youtube.com/watch?v=wjWAUrvA6c4
+> [UKRN video on data sharing:](https://www.youtube.com/watch?v=wjWAUrvA6c4)._
 {: .video}
 
 > ## Q&A `5 min`
